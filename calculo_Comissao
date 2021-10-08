@@ -36,7 +36,7 @@
         <input class="form-control form-control-lg" type="text" name="txtcomissao" placeholder="Comissão">
         <br>
         
-        <button type="submit" class="btn btn-danger">Calcular</button>
+        <button type="submit" class="btn btn-danger">Somar</button>
         
     </form>
 
